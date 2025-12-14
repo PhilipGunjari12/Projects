@@ -1,4 +1,4 @@
-# Machine Learning and Cybersecurity Projects (Google Colab)
+# Machine Learning and Cybersecurity Projects
 
 This repository contains machine learning and deep learning based security projects implemented using Google Colab notebooks.  
 All notebooks were created in Google Colab and saved directly to GitHub using the "Save a copy in GitHub" option.  
